@@ -1,8 +1,10 @@
 ---
 title: "Audi Used Car Price Analysis"
-author: 'Ashley Tian, Chenyu Wang, Rachel Liu & Xiao Hu'
-date: "2021-12-05"
-output: pdf_document
+author: "Ashley Tian, Chenyu Wang, Rachel Liu & Xiao Hu"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    df_print: paged
 ---
 # INTRODUCTION
 
